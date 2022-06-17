@@ -14,7 +14,7 @@
     <p>*Javascript é uma linguagem de tipagem dinâmica*</p>
     <p>- Não é preciso declarar o tipo da váriavel</p>
     <p></p>
-    <p>*Dados primitivos: numers,strings, boolean, null, undefined*</p>
+    <p>*Dados primitivos: numbers,strings, boolean, null, undefined*</p>
     <p>Primitivos não tem métodos dentro deles</p>
     <p></p>
     <p> Dados não primitivos : objects, arrays/<p>
