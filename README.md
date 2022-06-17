@@ -1,5 +1,5 @@
  <h1 align="center"> Curso de Váriaveis e tipos em JavaScript</h1>
-![canva](https://user-images.githubusercontent.com/92611054/174411803-60426eac-28aa-4154-98cc-f134bc18b552.jpg)
+![canva](https://user-images.githubusercontent.com/92611054/174411939-241bef85-b39a-4ac9-9cd5-b2b4b7d4429f.jpg)
 
 
  <h2> Diferença entre var, let e const</h2>
